@@ -1,4 +1,4 @@
 Tetris Game
 
-Author : Aman Gupta
+Author : Aman Gupta\
 Date : 1 Dec 2023
